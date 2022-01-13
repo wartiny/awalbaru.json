@@ -1,0 +1,52 @@
+{
+  "Categories": [
+    {
+      "name_category": "Anime",
+      "wallpaper_url": "category/supercar.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Anime",
+      "wallpaper_name": "Targa",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-oNIjOXjLSiQ/Yd99p2djViI/AAAAAAAAASs/dZx0mgedKkEB5wHb9417l7OgxQ8saokPQCNcBGAsYHQ/s16000/Studio_Project%2B%25281%2529.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Anime",
+      "wallpaper_name": "AUDI",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-h4eMK3SyGN4/Yd99q1Zs1BI/AAAAAAAAAS0/tVFuQddWqZMHnEZJ_cTN3WX7gE9sc0WawCNcBGAsYHQ/s16000/ani%2Bme.gif"
+    },
+    {
+      "id": 3,
+      "name_category": "Anime",
+      "wallpaper_name": "Lamborghini online",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-LecvM6nf-T4/Yd99qAtEQ8I/AAAAAAAAASw/58WY8hW7TPMFNFl6FbT1XZsNStxhpJFsACNcBGAsYHQ/s16000/final_61df772efc0a500053c994b2_701995.gif"
+    },
+    {
+      "id": 4,
+      "name_category": "Anime",
+      "wallpaper_name": "Cats Eyes",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-1MAygluOAak/Yd99pXzAv9I/AAAAAAAAASk/h_pGlnsmb64P1tOQ6gy7q12A3L-ePKhKwCNcBGAsYHQ/s16000/video_image-MIYy8788SE.jpeg"
+    },
+    {
+      "id": 5,
+      "name_category": "Anime",
+      "wallpaper_name": "Waterfall",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-3fl-uNxgoHY/Yd99po4F4EI/AAAAAAAAASo/mIPQFPiYcd4HmLoHGcAfMuWN2GlgvqmkgCNcBGAsYHQ/s16000/Studio_Project.jpeg"
+    },
+    {
+      "id": 6,
+      "name_category": "Anime",
+      "wallpaper_name": "Mountains",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-3fl-uNxgoHY/Yd99po4F4EI/AAAAAAAAASo/mIPQFPiYcd4HmLoHGcAfMuWN2GlgvqmkgCNcBGAsYHQ/s16000/Studio_Project.jpeg"
+    }
+  ]
+}
