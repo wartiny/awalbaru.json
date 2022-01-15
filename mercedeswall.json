@@ -1,0 +1,86 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Super Car",
+      "wallpaper_url": "category/mircidis.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Super Car",
+      "wallpaper_name": "Benz7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgSKCZm4VxQGQ3tnRyPdjh3iYtUOqskGZHc76IJG2v7SvfZ79TYrqrEDV62kQG8tvn4-AIePls_-T4E-wByDishXHe4AxUSTEjclNHPmxaMdsjeRfoDru7-TQ3ccopC92sG5X4G84kd9o42xH0WwEANLz1UTQtXuRtmRmbc8iG0OvhVAcNusHZCeD4r"
+    },
+    {
+      "id": 2,
+      "name_category": "Super Car",
+      "wallpaper_name": "Benz6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiXT-KXsP2JhF2eLb-j9UWxsL3oqjm5dUbta13JfXbLgXxU3yDDFinyBJSyP6YryB9a-K49LPeL_D7J7clbsD4WxSXdTM90bxUj8qQGWQnIdkUnNl3IxraIjoWx22RIn_k3qk8xS1lOYN0MgNnQNCq_qHoqPqe-OMQD8ujfVtYuNsnSau6N6wGCJ8rY"
+    },
+    {
+      "id": 3,
+      "name_category": "Super Car",
+      "wallpaper_name": "Benz5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEh7QQzgfJ8Q4lkAPojTiIDFJ6DPmmAlVXEmJ3CToE4emjzaxl9W4WMfiDpKDdkJXF7Jfsm5M0YTZp6bGJTasAE_dHMKDiqTuAsGhcfGL-7Siij_Bu7jBNN_ISR4gpcq09S2gKIb4p2dRF6DiBTXoUT17GRFW7iJUA9uSi4mC_UOuiVX5oTFM_E685rq"
+    },
+    {
+      "id": 4,
+      "name_category": "Animals",
+      "wallpaper_name": "Benz4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEju0qkmyoRGDbWcES0bPMLUNaDGLE0YBabOJM_IxjxpGhy4fbuyHjCN0UVkd7wcUMb3UAfKrHfyIxdCc7RxqAV3QbjQRAtSrSqqKsyxagb5bAgGOkCgKmBi9yJznWPm45Co7N4RHlq2d4ELQ-aG_MJjYroMHnyNs7SwzSE_dU9XSDrTKBZba3YfrKKS"
+    },
+    {
+      "id": 5,
+      "name_category": "Nature",
+      "wallpaper_name": "Benz3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhjTHkpcSNlllWzYEQhbnjyShtIOicj52Y3NBx_9WcB02NNTiQFSdS4PK1whsCHE-T5_0NfNim0x4TTcba04Mv7nnvkuziw1WDiAWCAjCqmezfVLLjdWDd7r7wkKsg3Cc-gLPwRMZvjG7lPOxyCoOqevgO6QNYXzwjpq7NtQAkGFAPMtLVhcpQ7J1Ru"
+    },
+    {
+      "id": 6,
+      "name_category": "Nature",
+      "wallpaper_name": "Benz2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhxcCRK_sbdNvDIJf5KlWBDVw4tkER45hRkgKoF3qkxyXYBNS86Cj3Ge1adEUR2y9cvaiLvmw8LcVJ3X2iPCH3oqWbV41KWjSAw3BHMPGQtLsmpmE_i6AJbpFPfoSyaq_K0rTGGok4IosyOMkDG0IAhJt_0IfJvWfdamjhl3x0-TMmmr7IN2F6QquVG"
+    },
+    {
+      "id": 7,
+      "name_category": "Animals",
+      "wallpaper_name": "Benz1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjEw4qNdxLx6Agf-agz8CvjOnP-XnAhfhR3eCacnSn-h6Uf9MegUu24mVQcg61RO-uYK4SI2jE6td0xOqeyrwIzq9D0aJqW_AXHUxQkMjaY3ySsb5VRrRDNvxv0DQIQpmfJ7FpM7ukNN6ToSz6eDpJyXP3OGLTyJGzY8IM5y-rHiZuk9YeIi_AJ-E-r"
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "wallpaper_name": "Benz",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiRSCA07DjMPM5dl_QZrveXQCYJmgRRzLzles6X5nvK_-AsIudxLjbAlw0NmveRRlMvIyiqY3bfPl4wUA8kOQjzEryK5xbGP4lWJZ2s33u2ktHwFkd1t8oh-BmUXe_4rT5RXyHA9NdWchbX8pe6PW_ln2bD_pG4RjN4qGDvHZKOFOezzPWnFUKf9MZ8"
+    }
+  ]
+}
