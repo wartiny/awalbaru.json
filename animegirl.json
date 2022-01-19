@@ -1,0 +1,86 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Anime Girl",
+      "wallpaper_url": "category/animegirl.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "Girly",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-mKw00niD0d0/YegS1p524oI/AAAAAAAAAV8/kKMupiT9Ho4QBn2pk2NHmh1YdljoU2jKwCNcBGAsYHQ/s16000/Studio_Project%2B%25284%2529.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "Girly1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-fzIjxINHyfI/YegS1iCyH5I/AAAAAAAAAWA/WilpGxPA5U8hgbryxIrkQ7mcQlidvLWPQCNcBGAsYHQ/s16000/Studio_Project%2B%25283%2529.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "Girly3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-6QrJpRughZ8/YegS16Mox0I/AAAAAAAAAWI/z1tqLCk7xEQL0NytSOjEuL7uxKfPs-1CgCNcBGAsYHQ/s16000/final_61e80f1c2468f60037557886_341536.pngi"
+    },
+    {
+      "id": 4,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "Girly4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-tUEyUi5ACiA/YegS12Rv7YI/AAAAAAAAAWE/thwpOuGOmf0_HhHFcCnmnKxce8eSXhl0ACNcBGAsYHQ/s16000/Studio_Project%2B%25282%2529.jpeg"
+    },
+    {
+      "id": 5,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "Girly5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-B86ur8M1LlM/YegS1xpCdVI/AAAAAAAAAWQ/o9ALg8wGB_koIY8pYBXOebnwcfMiMx28wCNcBGAsYHQ/s16000/Studio_Project%2B%25281%2529.jpeg"
+    },
+    {
+      "id": 6,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "Girly6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-We-vLw7yBPk/YegS1yk-3tI/AAAAAAAAAWM/mMZnR8RQagAzbZEz6mlPofFfU8eyzFQaQCNcBGAsYHQ/s16000/Studio_Project.jpeg"
+    },
+    {
+      "id": 7,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "Girly7",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-3qz3O8YKyoM/YegS2ZBQ2zI/AAAAAAAAAWU/ZVmyDXcAeCYxyhCf0nyerKeyvoIZPZ0hgCNcBGAsYHQ/s16000/final_61e80f1c2468f60037557886_206051.gif"
+    },
+    {
+      "id": 8,
+      "name_category": "Anime Girl",
+      "wallpaper_name": "Girly8",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://lh3.googleusercontent.com/-Nz8RBrROF8Y/YegTWVBdLtI/AAAAAAAAAWs/74F8-1ulXO8fYPbC8V7LR46FvBE7W2EVwCNcBGAsYHQ/s16000/final_61e80f1c2468f60037557886_995644.gif"
+    }
+  ]
+}
